@@ -1,0 +1,69 @@
+---
+title: "Opera Bernoulli Euler digital"
+subtitle: "Digital Zukunft" 
+author: "Gerd Graßhoff"
+institute: "Bernoulli Euler Kommission Basel"
+format: 
+    revealjs: 
+        slide-number: true
+        auto-strech: true
+        center: true
+        height: 1000
+        incremental: true
+
+---
+
+## Team, Mitwirkende, Unterstützer
+
+- Florian Kotschka
+- Dr. Silke Körber
+- Valery Berthoud
+- Dr. Maarten Breddels
+- Prof. Dr. McFarlane (Pandoc)
+- Team Spacy (Explosion GmbH Berlin)
+- BIFOLD
+- Team deepl Köln
+- classical languages tool kit CLTK
+- team mathpix
+
+## Euler Edition, digitalisiert
+
+- 82 Bände
+- mehr als 850 Euler Enestroem Schriften
+- mehr 40 000 Seiten
+- mehr als 450 000 Sätze
+
+## 
+
+- Bände open access zugänglich in retrodigitalisierten Format
+- 2 Varianten
+    - Einzel images, scan jeder Seite
+    - PDF als Band
+    - ladbar open access ohne Barriere
+
+## Serie 1-3
+
+## Serie 4a 4A
+
+## User metric
+
+### Nutzeranalyse
+
+- Wie werden Informationen aus den Editionen in Zitaten Publikationen genutzt?
+
+- Werden Aussagen zu Euler nicht mit Zitaten auf Editionen belegt, sondern autoritativ behauptet? 
+
+## VISIONEN
+
+## Zitate Quellen direkt
+
+## Validierung a la spell check
+
+## Euler Quellen
+
+Serie 1
+Serie 2
+Serie 3
+Serie 4a
+Serie 5
+Serie 6
